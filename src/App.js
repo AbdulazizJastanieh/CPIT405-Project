@@ -14,7 +14,7 @@ function App() {
       <Search /></>} />
         <Route path="/about-us" element={<AboutUs />} />
         <Route path="*" element= {<>
-      <h1>Search For Recipes</h1>
+      <h1>Search For Songs or Artists</h1>
       <Search /></>} />
       </Routes>
     </BrowserRouter>

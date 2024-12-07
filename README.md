@@ -21,6 +21,8 @@ The Main Pages presents the user with a search bar and a search button, simply w
 After Pressing the search button, the results will appear. Using the Artist/song name alone will show many song, using the song and artist name will show the specific song.
 ![Screenshot_1617](https://github.com/user-attachments/assets/77e9ad5c-4cee-4118-9be2-d1a3e7031683)
 
+-
+
 ![Screenshot_1615](https://github.com/user-attachments/assets/710d65d3-a22a-486d-b2be-258de89a0a66)
 
 ## Search Result in ITunes

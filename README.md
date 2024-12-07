@@ -15,3 +15,6 @@ The website uses Itunes API to do the searching and the results are fast and acc
 
 ## Main Page
 ![Screenshot_1613](https://github.com/user-attachments/assets/76a9ab53-3117-461f-8592-dc0ada341e1f)
+
+## Searching
+![Screenshot_1615](https://github.com/user-attachments/assets/710d65d3-a22a-486d-b2be-258de89a0a66)

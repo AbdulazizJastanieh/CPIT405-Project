@@ -19,7 +19,7 @@ The Main Pages presents the user with a search bar and a search button, simply w
 ![Screenshot_1613](https://github.com/user-attachments/assets/76a9ab53-3117-461f-8592-dc0ada341e1f)
 
 ## Searching
-After Pressing the search button, the results will appear. Using the Artist/song name alone will show many song, using the song and artist name will show the specific song.
+After Pressing the search button, the results will appear. Using the Artist/song name alone will show many songs, using the song and artist name will show the specific song.
 
 ![Screenshot_1617](https://github.com/user-attachments/assets/77e9ad5c-4cee-4118-9be2-d1a3e7031683)
 
